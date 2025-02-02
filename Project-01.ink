@@ -285,6 +285,7 @@ Maybe you should stay out of the captain's quarters for now.
 * {day == 3} [Take sword] -> shellsword
 
 == shellsword ==
+~ shell_sword = true
 ~ time = time - 1
 You pry the sword out of the hull, taking care not to cut yourself on the seashell hilt. It's a beautiful sword.
 You hide it underneath your shirt as you make your way back over to the rocks.
